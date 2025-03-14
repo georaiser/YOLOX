@@ -1,0 +1,14 @@
+loguru
+ninja
+numpy
+onnx
+onnxsim
+opencv_python
+psutil
+pycocotools
+tabulate
+tensorboard
+thop
+torch
+torchvision
+tqdm
